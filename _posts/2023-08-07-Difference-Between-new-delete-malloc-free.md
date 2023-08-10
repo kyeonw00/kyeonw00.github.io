@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C++ new, delete와 malloc, free의 차이
-published: false
+published: true
 date: 2023-08-07 23:09:00
 category: programming
 tags: [programming, c, c++]
