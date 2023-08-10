@@ -17,7 +17,7 @@ C++에서는 `malloc`, `new`, `calloc`을 통해 동적 메모리 할당이 가�
 
 `malloc`, `free`, `new`, `delete`의 차이점은 다음과 같습니다:
 
-| malloc(calloc), free 	| new, delete 	|
+| `malloc`(`calloc`), `free` 	| `new`, `delete` 	|
 |---	|---	|
 | 함수(function) 	| 연산자(operator) 	|
 | C/C++에서 사용 가능(라이브러리에서 제공) 	| C++에서만 사용 가능(언어의 기능으로서 제공됨) 	|
