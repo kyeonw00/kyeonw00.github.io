@@ -27,11 +27,6 @@ C++에서는 `malloc`, `new`, `calloc`을 통해 동적 메모리 할당이 가�
 | 함수이기 때문에 오버로딩 불가능 	| 연산자라 오버로딩이 가능함 	|
 | 별도의 코드 호출 없음 	| 생성자, 소멸자 호출됨 	|
 
-| Video URL                                                                                          | Platform  | ID            |
-|----------------------------------------------------------------------------------------------------|-----------|:--------------|
-| [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg) | `youtube` | `H-B46URT4mg` |
-| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`  | `1634779211`  |
-
 위 표는 대략적인 차이점을 정리한 내용입니다. 이번에는 조금 더 자세히 살펴봅시다.
 
 ### `malloc`과 `new`의 호출 방식
