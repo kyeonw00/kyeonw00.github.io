@@ -16,6 +16,8 @@ C++에서는 `malloc`, `new`, `calloc`을 통해 동적 메모리 할당이 가�
 동적 메모리 할당은 이름 그대로 프로그램이 실행되어 있는 시간, 즉 런타임 동안 사용할 메모리 공간을 할당하는 것입니다.
 
 `malloc`, `free`, `new`, `delete`의 차이점은 다음과 같습니다:
+
+
 | `malloc`(`calloc`), `free` 	| `new`, `delete` 	|
 |---	|---	|
 | 함수(function) 	| 연산자(operator) 	|
